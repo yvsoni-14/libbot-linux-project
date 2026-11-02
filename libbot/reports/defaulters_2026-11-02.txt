@@ -1,0 +1,20 @@
+DEFAULTERS REPORT - 02 Nov 2026 16:33
+Loan period: 14 days | Fine: Rs 2 per day
+--------------------------------------------------------------
+B105   Data Structures Using C      H05   NOT RETURNED   31 days  Rs 62
+B108   Linux Command Line           H18   NOT RETURNED   24 days  Rs 48
+B112   Software Engineering         D50   NOT RETURNED   16 days  Rs 32
+B115   Artificial Intelligence      D19   NOT RETURNED   12 days  Rs 24
+B104   Operating System Concepts    G60   Returned       11 days  Rs 22
+B110   Digital Logic Design         G42   Returned       10 days  Rs 20
+B101   Unix Concepts                H30   Returned       10 days  Rs 20
+B118   Shell Scripting Guide        D25   NOT RETURNED    9 days  Rs 18
+B107   Database System Concepts     G11   Returned        9 days  Rs 18
+B114   Theory of Computation        H44   Returned        8 days  Rs 16
+B120   Python for Data Analysis     H39   NOT RETURNED    7 days  Rs 14
+B117   Web Technologies             H02   Returned        7 days  Rs 14
+B122   Cyber Security Essentials    G29   NOT RETURNED    5 days  Rs 10
+B124   Unix Network Programming     D09   NOT RETURNED    3 days  Rs 6
+B102   Python Crash Course          G24   Returned        1 days  Rs 2
+--------------------------------------------------------------
+Defaulters: 15   Total fine: Rs 326

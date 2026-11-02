@@ -1,0 +1,31 @@
+book_id,title,issued_to,issue_date,return_date
+B101,Unix Concepts,H30,2026-10-01,2026-10-25
+B102,Python Crash Course,G24,2026-10-05,2026-10-20
+B103,Let Us C,D12,2026-09-10,2026-09-22
+B104,Operating System Concepts,G60,2026-09-15,2026-10-10
+B105,Data Structures Using C,H05,2026-09-18,
+B106,Computer Networks,D33,2026-09-20,2026-10-01
+B107,Database System Concepts,G11,2026-09-22,2026-10-15
+B108,Linux Command Line,H18,2026-09-25,
+B109,Discrete Mathematics,D07,2026-09-28,2026-10-08
+B110,Digital Logic Design,G42,2026-10-01,2026-10-25
+B111,Java The Complete Reference,H21,2026-10-02,2026-10-14
+B112,Software Engineering,D50,2026-10-03,
+B113,Computer Organization,G08,2026-10-04,2026-10-12
+B114,Theory of Computation,H44,2026-10-06,2026-10-28
+B115,Artificial Intelligence,D19,2026-10-07,
+B116,Machine Learning Basics,G37,2026-10-08,2026-10-18
+B117,Web Technologies,H02,2026-10-09,2026-10-30
+B118,Shell Scripting Guide,D25,2026-10-10,
+B119,Compiler Design,G15,2026-10-11,2026-10-20
+B120,Python for Data Analysis,H39,2026-10-12,
+B121,Cloud Computing,D41,2026-10-13,2026-10-26
+B122,Cyber Security Essentials,G29,2026-10-14,
+B123,Engineering Mathematics,H11,2026-10-15,2026-10-27
+B124,Unix Network Programming,D09,2026-10-16,
+B125,Design and Analysis of Algorithms,G53,2026-10-18,2026-10-29
+B126,Computer Graphics,H27,2026-10-20,
+B127,Microprocessors,D46,2026-10-22,2026-10-31
+B128,Object Oriented Programming,G19,2026-10-25,
+B129,Linux Kernel Development,H33,2026-10-27,
+B130,Git Pocket Guide,D14,2026-10-30,
